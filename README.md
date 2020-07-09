@@ -8,4 +8,4 @@ Sample project based on Unreal Engine's Flying template. Used for the in class d
 Clone or download zip to local UE projects directory.
 Open with UE 4.25 or newer
 Package for Android or iOS
-
+<img src="Assets4Reference/flyingscreen-min.png" align="right" />
